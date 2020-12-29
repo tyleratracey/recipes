@@ -24,4 +24,5 @@ Score 7.2/10
 - Serve with garlic bread and pancetta on top if you have it.
 
 ## Pic
-![alt text](https://github.com/tyleratracey/recipes/blob/master/tortellini_soup.jpg?raw=true)
+![alt text](https://github.com/tyleratracey/recipes/blob/main/tortellini_soup/tortellini_soup.jpg?raw=true)
+
