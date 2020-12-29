@@ -44,4 +44,4 @@
 - Let cool after baking for 30 min.
 
 ## Picture
-![alt text](https://github.com/tyleratracey/recipes/tree/main/chicken_pot_pie/chicken_pot_pie.jpg?raw=true)
+![alt text](https://github.com/tyleratracey/recipes/blob/main/chicken_pot_pie/chicken_pot_pie.jpg?raw=true)
