@@ -1,6 +1,6 @@
 # Tortellini Soup Recipe
 
-Score 7.2/10
+**Score: 7.2/10**
 
 ## Ingredients
 - 3 oz pancetta (optional)
