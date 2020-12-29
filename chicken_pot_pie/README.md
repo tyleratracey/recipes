@@ -4,7 +4,6 @@ This recipe is dank as fuck.
 Score: 8/10
 
 ## Ingredients
-```sh
 - 4 tablespoon unsalted butter
 - 1 lb. boneless skinless chicken
 - 1/2 cup of chopped yellow onion
@@ -18,10 +17,9 @@ Score: 8/10
 - 1 cup chicken broth
 - 2 tablespoon chopped parsley
 - 2 unbaked pie crust (1 top 1 bottom)
-```
+
 
 ## Cooking
-```sh
 - Boil the chicken in a pot with salted water until fully cooked and shred the chicken when its done using forks.
 
 - Melt the butter in a large deep skillet.
@@ -45,4 +43,3 @@ Score: 8/10
 - Bake for 30 min on bottom rack of the oven.
 
 - Let cool after baking for 30 min.
-```
