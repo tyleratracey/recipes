@@ -1,7 +1,6 @@
 # Chicken Pot Pie Recipe
 
-This recipe is dank as fuck.
-Score: 8/10
+**Score: 8/10**
 
 ## Ingredients
 - 4 tablespoon unsalted butter
@@ -43,3 +42,6 @@ Score: 8/10
 - Bake for 30 min on bottom rack of the oven.
 
 - Let cool after baking for 30 min.
+
+## Picture
+![alt text](https://github.com/tyleratracey/recipes/tree/main/chicken_pot_pie/chicken_pot_pie.jpg?raw=true)
