@@ -22,3 +22,6 @@ Score 7.2/10
 - Add the rest of ingredients except the tortellini and simmer covered for 20 min.
 - Add int the tortellini and simmer for 8 min.
 - Serve with garlic bread and pancetta on top if you have it.
+
+## Pic
+![alt text](https://github.com/tyleratracey/recipes/blob/master/tortellini_soup.jpg?raw=true)
